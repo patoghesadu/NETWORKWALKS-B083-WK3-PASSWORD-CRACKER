@@ -1,26 +1,23 @@
-# NETWORKWALKS-B083-WK3-PASSWORD-CRACKER
-Week 3 Project at Networkwalks – PDF password auditing using JTR, Johnny, and Networkwalks tools.
+# NETWORKWALKS-B083-WK3-PASSWORD-CRACKING
+Week 3 Project at Networkwalks – PDF password cracking using JTR, Johnny, and Networkwalks tools.
 
-# PDF Password Auditing
+# PDF Password Cracking
 
 ## Week 3 Project - Networkwalks
 
 This project was completed as part of my Week 3 cybersecurity
 project at **Networkwalks**.
 
-The project focused on password auditing and password recovery
+The project focused on password cracking and password recovery
 using different tools.
-
-## Company
-
-**Networkwalks**
 
 ## Tools Used
 
 - John the Ripper (JTR)
-- Johnny
+- John
 - Password Cracker - Networkwalks
 - Hash Calculator - Networkwalks
+- Networkwalk Tools
 
 ## Project Tasks
 
@@ -65,22 +62,26 @@ This confirmed that the password was successfully recovered.
 
 ### Johnny Settings
 
-<img width="868" height="686" alt="Screenshot 2026-10-02 134923" src="https://github.com/user-attachments/assets/804371e9-c207-4eba-9ac9-11d70e7243da" />
+<img width="440" height="353" alt="Johnny Seetings" src="https://github.com/user-attachments/assets/7e508898-312d-4577-abd6-a16e55c29c7e" />
+
 
 
 ### Hash File
 
-<img width="1875" height="871" alt="Screenshot 2026-10-02 135156" src="https://github.com/user-attachments/assets/454ecf82-89cf-4843-b43b-a61115621af8" />
+<img width="863" height="379" alt="Hash Extractor" src="https://github.com/user-attachments/assets/4c1769ec-0dd8-4483-8e85-df4bb36f4e7c" />
+
 
 
 ### Attack Result
 
-<img width="873" height="687" alt="Screenshot 2026-10-02 135249" src="https://github.com/user-attachments/assets/266222fc-5850-4376-9efe-de4bbacbba03" />
-
+<img width="436" height="359" alt="Password cracked" src="https://github.com/user-attachments/assets/a8bcab4e-6342-4e54-87a8-fa494f67fa11" />
 
 ### PDF Opened
 
-<img width="507" height="715" alt="Screenshot 2026-10-02 135325" src="https://github.com/user-attachments/assets/87029ae0-2ffa-4380-9467-cc27da8a65ad" />
+<img width="650" height="439" alt="Congratulations" src="https://github.com/user-attachments/assets/0afa33e9-1104-4a22-8b6e-dc3142eb4cfe" />
+
+
+
 
 # Task 2 - PDF 2 - Networkwalks Tools
 
@@ -109,17 +110,18 @@ The password was successfully recovered and the PDF was opened and viewed succes
 
 ### Hash Calculator
 
-<img width="1103" height="901" alt="Screenshot 2026-10-03 110220" src="https://github.com/user-attachments/assets/dc98824b-06e6-4fb1-afce-5f2a8bd55c6e" />
+<img width="681" height="418" alt="Hash Calculator" src="https://github.com/user-attachments/assets/a9f04673-944e-4f37-9925-8eb17ba19b6f" />
 
 
 ### Password Cracker
 
-<img width="560" height="716" alt="Screenshot 2026-10-03 110539" src="https://github.com/user-attachments/assets/07b0c141-c29a-463b-8594-670337e6b58e" />
+<img width="644" height="435" alt="Cracked Password 2" src="https://github.com/user-attachments/assets/babea4e2-41ac-4073-b710-a834d2cff3d3" />
+
 
 
 ### PDF Opened
 
-<img width="500" height="702" alt="Screenshot 2026-10-03 110653" src="https://github.com/user-attachments/assets/50afd6ca-f1e8-489b-b8b0-1f1ff859e39b" />
+<img width="658" height="442" alt="Congratulations 2" src="https://github.com/user-attachments/assets/0a115ba1-7f5c-4be3-b07e-3bb048923a4d" />
 
 
 
@@ -145,17 +147,16 @@ The password was successfully recovered and the PDF was opened and viewed succes
 
 ### Hash Calculator
 
-<img width="637" height="582" alt="Screenshot 2026-10-03 110942" src="https://github.com/user-attachments/assets/f3b2763f-32e1-436b-8940-927570a64be7" />
+<img width="692" height="381" alt="Hash 3" src="https://github.com/user-attachments/assets/2547c314-b576-4c2d-b7ee-4f9a82185972" />
 
 
 ### Password Cracker
 
-<img width="576" height="712" alt="Screenshot 2026-10-03 111112" src="https://github.com/user-attachments/assets/70ec3472-9df6-4f90-921b-762333578973" />
+<img width="652" height="388" alt="Cracked Password 3" src="https://github.com/user-attachments/assets/91dc7ea5-8ea5-4449-a588-e5cf3e961a11" />
 
 
 ### PDF Opened
-
-<img width="508" height="662" alt="Screenshot 2026-10-03 112205" src="https://github.com/user-attachments/assets/12d04d19-f018-41a6-ac00-31ee5ad9d800" />
+<img width="698" height="443" alt="Opened pdf 3" src="https://github.com/user-attachments/assets/cd47177b-2807-4d2f-b54d-8e57650958ff" />
 
 
 # Conclusion
@@ -173,8 +174,6 @@ training at **Networkwalks**.
 
 ## Author
 
-**Prithvika**
+** Patrick Adu
 
-Student | Cybersecurity Enthusiast
-
-Linkedin: www.linkedin.com/in/prithvikas07
+Student | Cybersecurity
